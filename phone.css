@@ -1,0 +1,38 @@
+/* This CSS File named as Phone.css, helps render the Webpage well on small devices like phone, tablet, etc. */
+/* White Box */
+.container{
+    flex-direction: column;
+    width: 98%;
+    height: auto;
+    align-items: center;   
+    margin: 30px;
+}
+/* Boxes inside White Box */
+.box{
+    width: 100%;
+}
+
+.item{
+    padding: 0px;
+}
+#login-text p{
+    text-align: center;
+}
+
+.connections .line{
+    width: 2.16rem;
+}
+#footer-1{
+    margin: 0;
+}
+#footer-2{
+    padding: 0;
+    margin: 0;
+}
+.sm-img{
+    margin: 0;
+    padding-right: 2px;
+}
+#footer-3{
+    text-align: center;
+}
